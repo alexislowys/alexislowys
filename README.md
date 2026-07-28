@@ -6,8 +6,6 @@
 
 **Data Science · AI · Fintech Data Tools · GPU Performance**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Data+Science+%26+AI+%40+Monash+University;Found+%26+filed+a+perf+defect+in+NVIDIA's+cuDF;Building+fintech+data+tools+end+to+end;Python+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+TypeScript" alt="Typing SVG" />
-
 <br/>
 
 <img src="https://img.shields.io/badge/Monash_University-BCompSci_·_Data_Science_%26_AI-6f42c1?style=for-the-badge&logoColor=white" alt="Monash University"/>
