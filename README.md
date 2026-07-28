@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Alexis%20Low&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%C2%B7%20AI%20%C2%B7%20Fintech%20Data%20Tools%20%C2%B7%20GPU%20Performance&descAlignY=55&descSize=18&color=0:1a0b2e,50:6f42c1,100:8b5cf6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Alexis%20Low&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%C2%B7%20AI%20%C2%B7%20Fintech%20Data%20Tools%20%C2%B7%20GPU%20Performance&descAlignY=55&descSize=18&color=0:1a0b2e,50:6f42c1,100:8b5cf6" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Data+Science+%26+AI+%40+Monash+University;Found+%26+filed+a+perf+defect+in+NVIDIA's+cuDF;Building+fintech+data+tools+end+to+end;Python+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+TypeScript" alt="Typing SVG" />
 
