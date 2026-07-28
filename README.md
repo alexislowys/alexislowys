@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6f42c1,100:8b5cf6&height=200&section=header&text=Alexis%20Low&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20AI%20%C2%B7%20Fintech%20Data%20Tools%20%C2%B7%20GPU%20Performance&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Alexis%20Low&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20AI%20%C2%B7%20Fintech%20Data%20Tools%20%C2%B7%20GPU%20Performance&descAlignY=55&descSize=18&color=0:1a0b2e,50:6f42c1,100:8b5cf6" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Data+Science+%26+AI+%40+Monash+University;Found+%26+filed+a+perf+defect+in+NVIDIA's+cuDF;Building+fintech+data+tools+end+to+end;Python+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Data+Science+%26+AI+%40+Monash+University;Found+%26+filed+a+perf+defect+in+NVIDIA's+cuDF;Building+fintech+data+tools+end+to+end;Python+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+TypeScript" alt="Typing SVG" />
 
 <br/>
 
@@ -13,12 +13,12 @@
 <br/><br/>
 
 <a href="mailto:alexislowys@gmail.com"><img src="https://img.shields.io/badge/Email-alexislowys%40gmail.com-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/alexislow10"><img src="https://img.shields.io/badge/LinkedIn-alexislow10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/alexislowys"><img src="https://img.shields.io/badge/GitHub-alexislowys-1a1b27?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=alexislowys&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile views"/>
-<a href="https://github.com/alexislowys?tab=followers"><img src="https://img.shields.io/github/followers/alexislowys?style=flat-square&color=7c3aed&labelColor=1a1b27&logo=github&label=Followers" alt="Followers"/></a>
 
 </div>
 
@@ -256,55 +256,6 @@ Selected for the platform's official creator program. Planned, filmed, and edite
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexislowys&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&ring_color=7c3aed&count_private=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislowys&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=alexislowys&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="Streak stats"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexislowys&theme=tokyonight" width="100%" alt="Profile summary"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alexislowys&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexislowys&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9&area=true&area_color=6f42c1&hide_border=true" width="100%" alt="Activity graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/alexislowys/alexislowys/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
@@ -322,6 +273,7 @@ open_to:      ["internships", "junior software / data engineering roles", "open 
 <div align="center">
 
 <a href="mailto:alexislowys@gmail.com"><img src="https://img.shields.io/badge/Gmail-alexislowys%40gmail.com-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/alexislow10"><img src="https://img.shields.io/badge/LinkedIn-alexislow10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/alexislowys"><img src="https://img.shields.io/badge/GitHub-alexislowys-1a1b27?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub"/></a>
 
 </div>
@@ -332,6 +284,6 @@ open_to:      ["internships", "junior software / data engineering roles", "open 
 
 *Measure first — the bottleneck is never where you think it is.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6f42c1,100:1a0b2e&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8b5cf6,50:6f42c1,100:1a0b2e" width="100%"/>
 
 </div>
