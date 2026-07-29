@@ -233,17 +233,6 @@ Reconstructing the full Nasdaq limit order book from the raw TotalView-ITCH 5.0 
 
 ---
 
-## 💼 Experience
-
-**Content Creator — Lemon8 (Official Creator Program)**
-*Oct 2022 – Jan 2024*
-
-Selected for the platform's official creator program. Planned, filmed, and edited content optimised for reach and platform trends; peak post reached **275K+ views** with consistently strong viewership.
-
-`Content Strategy` `Video Editing` `Audience Analytics` `Platform Growth`
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -252,7 +241,6 @@ Selected for the platform's official creator program. Planned, filmed, and edite
 |:---|:---|
 | **Upstream NVIDIA cuDF finding** | Performance defect found, diagnosed, and filed as [rapidsai/cudf#23256](https://github.com/rapidsai/cudf/issues/23256); reproduced by a RAPIDS maintainer on GH200 hardware the same day |
 | **International mathematics olympiads** | 12 medals across 8 competitions (2016–2023), incl. Hua Xia Cup Silver '21 · ASMO Silver '19 · ISMC Silver '18 · AMO Bronze '18/'21/'23 · WMI Bronze '19/'21/'22 |
-| **Lemon8 Official Creator Program** | Selected creator; peak post 275K+ views |
 
 </div>
 
