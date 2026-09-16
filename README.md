@@ -30,7 +30,7 @@
 
 Data science & AI student at **Monash University** who likes projects that touch real data **end to end** — ingestion, storage, analysis, deployment — instead of stopping at a notebook.
 
-- 🔬 Found and filed a **performance defect in NVIDIA's cuDF** GPU dataframe library ([rapidsai/cudf#23256](https://github.com/rapidsai/cudf/issues/23256)) — reproduced by a RAPIDS maintainer on GH200 hardware the same day
+- 🔬 Found and filed a **performance defect in NVIDIA's cuDF** GPU dataframe library ([NVIDIA/cudf#23256](https://github.com/NVIDIA/cudf/issues/23256)) — reproduced by a RAPIDS maintainer on GH200 hardware the same day
 - 💹 Building **fintech data tools**: SEC EDGAR insider-trading surveillance, a Nasdaq ITCH order-book reconstructor in C++, an LLM-powered financial news platform
 - 🗄️ Ship **full-stack**: Next.js/React frontends, Postgres data models with triggers and row-level security as first-class business logic, CI, and real deployments
 - ⚡ Care about **performance and provable correctness** — benchmarking methodology, locked-clock measurement, byte-exact binary parsing, tests by default
@@ -140,7 +140,7 @@ Benchmark harness that found a real performance defect in NVIDIA's GPU dataframe
 | **Scale** | 112-configuration grid: 3 backends × 1M/10M/30M rows × operations × key-skew levels |
 | **Performance** | Isolated a 1.48× skew penalty at locked GPU clocks; Numba shared-memory prototype **2.47× faster than cuDF** on the skewed case (identical results asserted) |
 | **Rigor** | Eliminated four false hypotheses, including a T4 DVFS clock-throttling artifact that faked earlier "findings" |
-| **Impact** | Upstream issue [rapidsai/cudf#23256](https://github.com/rapidsai/cudf/issues/23256) — reproduced by a RAPIDS maintainer (NVIDIA) on GH200 the same day; kernel-level fix direction identified upstream |
+| **Impact** | Upstream issue [NVIDIA/cudf#23256](https://github.com/NVIDIA/cudf/issues/23256) — reproduced by a RAPIDS maintainer (NVIDIA) on GH200 the same day; kernel-level fix direction identified upstream |
 | **Repository** | [github.com/alexislowys/cudf-bench](https://github.com/alexislowys/cudf-bench) |
 
 **Key Features**
@@ -239,7 +239,7 @@ Reconstructing the full Nasdaq limit order book from the raw TotalView-ITCH 5.0 
 
 | Recognition | Details |
 |:---|:---|
-| **Upstream NVIDIA cuDF finding** | Performance defect found, diagnosed, and filed as [rapidsai/cudf#23256](https://github.com/rapidsai/cudf/issues/23256); reproduced by a RAPIDS maintainer on GH200 hardware the same day |
+| **Upstream NVIDIA cuDF finding** | Performance defect found, diagnosed, and filed as [NVIDIA/cudf#23256](https://github.com/NVIDIA/cudf/issues/23256); reproduced by a RAPIDS maintainer on GH200 hardware the same day |
 | **International mathematics olympiads** | 12 medals across 8 competitions (2016–2023), incl. Hua Xia Cup Silver '21 · ASMO Silver '19 · ISMC Silver '18 · AMO Bronze '18/'21/'23 · WMI Bronze '19/'21/'22 |
 
 </div>
@@ -251,7 +251,7 @@ Reconstructing the full Nasdaq limit order book from the raw TotalView-ITCH 5.0 
 ```yaml
 building:     "Full-Depth — Nasdaq TotalView-ITCH 5.0 order-book reconstruction in C++20"
 learning:     ["market microstructure", "modern C++ performance", "GPU profiling"]
-exploring:    "CUDA kernel optimization — following up on rapidsai/cudf#23256"
+exploring:    "CUDA kernel optimization — following up on NVIDIA/cudf#23256"
 researching:  "order-flow imbalance & book-state analytics"
 open_to:      ["internships", "junior software / data engineering roles", "open source"]
 ```
