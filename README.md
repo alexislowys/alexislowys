@@ -249,7 +249,6 @@ Reconstructing the full Nasdaq limit order book from the raw TotalView-ITCH 5.0 
 ## 🎯 Current Focus
 
 ```yaml
-building:     "Full-Depth — Nasdaq TotalView-ITCH 5.0 order-book reconstruction in C++20"
 learning:     ["market microstructure", "modern C++ performance", "GPU profiling"]
 exploring:    "CUDA kernel optimization — following up on NVIDIA/cudf#23256"
 researching:  "order-flow imbalance & book-state analytics"
