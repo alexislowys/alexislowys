@@ -31,7 +31,7 @@
 Data science & AI student at **Monash University** who likes projects that touch real data **end to end** — ingestion, storage, analysis, deployment — instead of stopping at a notebook.
 
 - 🔬 Found and filed a **performance defect in NVIDIA's cuDF** GPU dataframe library ([NVIDIA/cudf#23256](https://github.com/NVIDIA/cudf/issues/23256)) — reproduced by a RAPIDS maintainer on GH200 hardware the same day
-- 💹 Building **fintech data tools**: SEC EDGAR insider-trading surveillance, a Nasdaq ITCH order-book reconstructor in C++, an LLM-powered financial news platform
+- 💹 Building **fintech data tools**: SEC EDGAR insider-trading surveillance, an LLM-powered financial news platform
 - 🗄️ Ship **full-stack**: Next.js/React frontends, Postgres data models with triggers and row-level security as first-class business logic, CI, and real deployments
 - ⚡ Care about **performance and provable correctness** — benchmarking methodology, locked-clock measurement, byte-exact binary parsing, tests by default
 - 🏅 Mathematics-olympiad background — 12 international medals across 8 competitions
@@ -212,22 +212,6 @@ Financial news platform producing per-article LLM sentiment analysis and a daily
 | **Testing** | 41 Vitest tests; pure analysis logic deliberately isolated from I/O |
 | **Deployment** | Vercel + Neon; weekday cron refresh; GitHub Actions CI with dependency-audit gate |
 | **Repository** | [github.com/alexislowys/ai-financial-news](https://github.com/alexislowys/ai-financial-news) · **Live:** [ai-financial-news-3i44.vercel.app](https://ai-financial-news-3i44.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>🏗️ Full-Depth — Nasdaq ITCH Order-Book Reconstruction (C++) · in progress</b></summary>
-<br/>
-
-Reconstructing the full Nasdaq limit order book from the raw TotalView-ITCH 5.0 binary feed in C++20, with a Python analytics layer (order-flow imbalance, microstructure) to follow. *Repo is private until the order-book engine lands with real numbers.*
-
-| | |
-|:---|:---|
-| **Stack** | C++20 · CMake · GoogleTest · GitHub Actions |
-| **Data** | Full Nasdaq trading day (2020-01-30): 13 GB binary feed, **423,285,709 messages** |
-| **Performance** | Framing scanner: 18.6M msgs/sec with byte-exact accounting; full field-level decode of all 23 ITCH message types at 17.2M msgs/sec |
-| **Correctness** | 192.7M locate↔symbol cross-checks with zero mismatches; 33 unit tests; spec edge cases documented (zero-filled order refs, per-day dense symbol indices) |
-| **Scope** | Deliberately excludes trading signals and price prediction — the point is performance and provable correctness on market data |
 
 </details>
 
