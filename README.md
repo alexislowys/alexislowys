@@ -36,8 +36,6 @@ Data science & AI student at **Monash University** who likes projects that touch
 - ⚡ Care about **performance and provable correctness** — benchmarking methodology, locked-clock measurement, byte-exact binary parsing, tests by default
 - 🏅 Mathematics-olympiad background — 12 international medals across 8 competitions
 
-**Open to:** internships · junior software / data engineering roles · open-source collaboration
-
 ---
 
 ## 🛠️ Tech Stack
